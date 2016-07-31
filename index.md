@@ -11,8 +11,8 @@ in *[School of Business, Economics and Law](http://handels.gu.se/english)*,
 
 ## Experiences
 
-### Web Projects (2015-2016)
-<iframe width="800" height="600" src="http://ijohann.com/exhibition/" frameborder="0" allowfullscreen></iframe>
+### Front-end Projects (2015-2016)
+<iframe width="800" height="600" src="http://ijohann.com/web/demo/frontend/" frameborder="0" allowfullscreen></iframe>
 *The above iframe is scrollable*
 
 ### Wechat Projects (2015-2016)
@@ -27,8 +27,8 @@ in *[School of Business, Economics and Law](http://handels.gu.se/english)*,
 
 
 ### Web Projects (2015)
-- [Lyric Rolling Music Player](http://mylyric.ml/)
-<iframe width="800" height="600" src="http://mylyric.ml/" frameborder="0" allowfullscreen></iframe>
+- [Lyric Rolling Music Player](http://ijohann.com/web/exihibition/lyricplayer/)
+<iframe width="800" height="600" src="http://ijohann.com/web/exihibition/lyricplayer/" frameborder="0" allowfullscreen></iframe>
 
 ### Android Project (2013)
 - Keep Fit (Android Phone App)
