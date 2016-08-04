@@ -7,9 +7,9 @@
 
 # Site settings
 title: Johann Huang
-email: isjohnwong@gmail.com
+email: i@ijohann.com
 description: > 
-  Focusing on web and data analysis.
+  Focusing on web development and data analysis.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://happyjohann.github.io" # the base hostname & protocol for your site
 twitter_username: 
