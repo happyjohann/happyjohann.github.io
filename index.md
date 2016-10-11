@@ -4,8 +4,8 @@ name: Johann Huang
 ---
 
 ## Education
-In August 2016,  
-will be a *Graduate Student*,  
+Since August 2016,  
+being a *Master Program Exchange Student*,  
 in *[School of Business, Economics and Law](http://handels.gu.se/english)*,  
 **[University of Gothenburg, Sweden](http://www.gu.se/)**.  
 
@@ -40,7 +40,7 @@ About 2 months' stay up until 2:00am at deep night, finaly I managed to pack the
 <iframe width="800" height="600" src="http://ijohann.com/web/exihibition/lyricplayer/" frameborder="0" allowfullscreen></iframe>
 
 ### Android Project (2013)
-- Keep Fit (Android Phone App)
+- [Keep Fit (Android Phone App)](https://github.com/happyjohann/andriod-keepfit)
 
 ### iOS Projects (2012 - 2013)
 - [iHome(iPhone App)](https://www.youtube.com/embed/LcO6RqZ2LnY)
