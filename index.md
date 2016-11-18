@@ -11,20 +11,25 @@ in *[School of Business, Economics and Law](http://handels.gu.se/english)*,
 
 ## Experiences
 
-### Projects Index (2016)
+### Projects Index
 For time-saving sake, I made a index for some of my most worth viewing sites under link <http://ijohann.com/web>.
 <iframe width="800" height="600" src="http://ijohann.com/web" frameborder="1" allowfullscreen></iframe>
-*The above iframe is scrollable*
+*This iframe is scrollable*
 
-### Personal Site (2016)
-About 2 months' stay up until 2:00am at deep night, finaly I managed to pack the majority of my web development into my personal site under link <http://ijohann.com>, also shown as the following iframe (inside with is a zoomable/clickable treemap made using `d3.js`).
+### Johann's Timeline (2016.11-)
+For the simplicity of writing and sharing, I decided to make a MarkDown blog to replace this blog site and here it is under link <http://i.ijohann.com>.
+<iframe width="800" height="450" src="http://i.ijohann.com/" frameborder="1" allowfullscreen></iframe>
+*This iframe is scrollable*
+
+### Personal Site (2016.07-)
+My all-in-one site adopting techniques such as Python Flask, Node, D3.js and a lot of others under link <http://ijohann.com>.
 <iframe width="800" height="450" src="http://ijohann.com/?treemap" frameborder="0" allowfullscreen></iframe>
 
 ### Front-end Projects (2015-2016)
 <iframe width="800" height="600" src="http://ijohann.com/web/demo/frontend/" frameborder="0" allowfullscreen></iframe>
-*The above iframe is scrollable*
+*This iframe is scrollable*
 
-### Wechat Projects (2015-2016)
+### Wechat Project (2015-2016)
 [Wechat](http://www.wechat.com/en/) Official Account Development (CLI Development)
 ![Scan to Subscribe](/assets/images/wx-api/zwxx.jpg) 
 *Scan with Wechat to Subscribe*  
@@ -35,7 +40,7 @@ About 2 months' stay up until 2:00am at deep night, finaly I managed to pack the
 - Wechat custimized H5 page with user authentication
 
 
-### Web Projects (2015)
+### Web Project (2015)
 - [Lyric Rolling Music Player](http://ijohann.com/web/exihibition/lyricplayer/)
 <iframe width="800" height="600" src="http://ijohann.com/web/exihibition/lyricplayer/" frameborder="0" allowfullscreen></iframe>
 
@@ -77,6 +82,9 @@ About 2 months' stay up until 2:00am at deep night, finaly I managed to pack the
 <hr>
 
 ## Recent Posts
+
+**My recent posts are published on another site under <http://i.ijohann.com>.**
+
 <div class="posts">
   {% assign count = 0 %}
   {% for post in site.posts %}
