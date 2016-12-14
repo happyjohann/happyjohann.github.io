@@ -12,21 +12,21 @@ in *[School of Business, Economics and Law](http://handels.gu.se/english)*,
 ## Experiences
 
 ### Projects Index
-For time-saving sake, I made a index for some of my most worth viewing sites under link <http://ijohann.com/web>.
-<iframe width="800" height="600" src="http://ijohann.com/web" frameborder="1" allowfullscreen></iframe>
+For time-saving sake, I made a index for some of my most worth viewing sites under link <http://development.ijohann.com>.
+<iframe width="800" height="600" src="http://development.ijohann.com/" frameborder="1" allowfullscreen></iframe>
 *This iframe is scrollable*
 
-### Johann's Timeline (2016.11-)
+### MarkDown Blog (2016.11-)
 For the simplicity of writing and sharing, I decided to make a MarkDown blog to replace this blog site and here it is under link <http://articles.ijohann.com>.
 <iframe width="800" height="450" src="http://articles.ijohann.com/" frameborder="1" allowfullscreen></iframe>
 *This iframe is scrollable*
 
 ### Personal Site (2016.07-)
-My all-in-one site adopting techniques such as Python Flask, Node, D3.js and a lot of others under link <http://ijohann.com>.
-<iframe width="800" height="450" src="http://ijohann.com/?treemap" frameborder="0" allowfullscreen></iframe>
+My all-in-one site adopting techniques such as Python Flask, Node, D3.js and a lot of others under link <http://www.ijohann.com>.
+<iframe width="800" height="450" src="http://www.ijohann.com/" frameborder="0" allowfullscreen></iframe>
 
 ### Front-end Projects (2015-2016)
-<iframe width="800" height="600" src="http://ijohann.com/web/demo/frontend/" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="600" src="http://development.ijohann.com/frontend/" frameborder="0" allowfullscreen></iframe>
 *This iframe is scrollable*
 
 ### Wechat Project (2015-2016)
@@ -41,8 +41,8 @@ My all-in-one site adopting techniques such as Python Flask, Node, D3.js and a l
 
 
 ### Web Project (2015)
-- [Lyric Rolling Music Player](http://ijohann.com/web/exhibition/lyricplayer/)
-<iframe width="800" height="600" src="http://ijohann.com/web/exhibition/lyricplayer/" frameborder="0" allowfullscreen></iframe>
+- [Lyric Rolling Music Player](http://development.ijohann.com/lyricplayer/)
+<iframe width="800" height="600" src="http://development.ijohann.com/lyricplayer/" frameborder="0" allowfullscreen></iframe>
 
 ### Android Project (2013)
 - [Keep Fit (Android Phone App)](https://github.com/happyjohann/andriod-keepfit)
@@ -83,7 +83,7 @@ My all-in-one site adopting techniques such as Python Flask, Node, D3.js and a l
 
 ## Recent Posts
 
-**My recent posts are published on another site under <http://i.ijohann.com>.**
+**My recent posts are published on another site under <http://articles.ijohann.com>.**
 
 <div class="posts">
   {% assign count = 0 %}
