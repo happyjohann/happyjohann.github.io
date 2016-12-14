@@ -3,6 +3,8 @@ layout: page
 name: Johann Huang
 ---
 
+# [Johann Huang](http://i.ijohann.com)
+
 ## Education
 Since August 2016,  
 being a *Master Program Exchange Student*,  
@@ -11,34 +13,35 @@ in *[School of Business, Economics and Law](http://handels.gu.se/english)*,
 
 ## Experiences
 
-### Projects Index
-For time-saving sake, I made a index for some of my most worth viewing sites under link <http://development.ijohann.com>.
-<iframe width="800" height="600" src="http://development.ijohann.com/" frameborder="1" allowfullscreen></iframe>
+### Personal All-in-one Site (2016.07-)
+My all-in-one site adopting techniques such as Python Flask, Node, D3.js and a lot of others under link <http://www.ijohann.com>.
+<iframe width="800" height="450" src="http://www.ijohann.com/sitemap.html" frameborder="0" allowfullscreen></iframe>
+*This iframe is scrollable*
+
+### Personal Photography Site (2016.07-)
+My photography site, new version adopts Python as back-end language and also as Photo Processing language under <http://www.rhophotos.com>.
+<iframe width="800" height="450" src="http://www.rhophotos.com/" frameborder="0" allowfullscreen></iframe>
+*This iframe is scrollable*
+
+### Web Project Index
+For time-saving sake, I made an index page for some of my sites under link <http://development.ijohann.com/>.  
+<iframe width="800" height="600" src="http://development.ijohann.com/" frameborder="0" allowfullscreen></iframe>
 *This iframe is scrollable*
 
 ### MarkDown Blog (2016.11-)
-For the simplicity of writing and sharing, I decided to make a MarkDown blog to replace this blog site and here it is under link <http://articles.ijohann.com>.
+For the simplicity of writing and sharing, I made a MarkDown blog to replace this blog site under link <http://articles.ijohann.com> (currently shipping to Python back-end, php version under <http://php.articles.ijohann.com>).
 <iframe width="800" height="450" src="http://articles.ijohann.com/" frameborder="1" allowfullscreen></iframe>
 *This iframe is scrollable*
 
-### Personal Site (2016.07-)
-My all-in-one site adopting techniques such as Python Flask, Node, D3.js and a lot of others under link <http://www.ijohann.com>.
-<iframe width="800" height="450" src="http://www.ijohann.com/" frameborder="0" allowfullscreen></iframe>
-
-### Front-end Projects (2015-2016)
-<iframe width="800" height="600" src="http://development.ijohann.com/frontend/" frameborder="0" allowfullscreen></iframe>
-*This iframe is scrollable*
-
 ### Wechat Project (2015-2016)
-[Wechat](http://www.wechat.com/en/) Official Account Development (CLI Development)
+Wechat Official Account Development (CLI Development) under link <http://weixin.ijohann.com>. One of my wechat official accounts can be accessed via following QR code.  
 ![Scan to Subscribe](/assets/images/wx-api/zwxx.jpg)
 *Scan with Wechat to Subscribe*  
 
 - Response to specific keywords
 - Employed a robot api for user to chat with
 - Get random jokes after each trigger
-- Wechat custimized H5 page with user authentication
-
+- Wechat customized H5 page with user authentication
 
 ### Web Project (2015)
 - [Lyric Rolling Music Player](http://development.ijohann.com/lyricplayer/)
