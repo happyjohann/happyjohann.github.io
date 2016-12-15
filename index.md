@@ -1,6 +1,5 @@
 ---
 layout: page
-name: Johann Huang
 ---
 
 # [Johann Huang](http://i.ijohann.com)
