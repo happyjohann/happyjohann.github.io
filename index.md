@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# [Johann Huang](http://i.ijohann.com)
+# Johann Huang
 
 ## Education
 Since August 2016,  
