@@ -7,7 +7,7 @@ title: xProjects
 
 ### Personal All-in-one Site (2016.07-)
 My all-in-one site adopting techniques such as Python Flask, Node, D3.js and a lot of others under link <http://www.ijohann.com>.
-<iframe width="800" height="450" src="http://www.ijohann.com/sitemap.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="450" src="http://www.ijohann.com/sitemap" frameborder="0" allowfullscreen></iframe>
 *This iframe is scrollable*
 
 ### Personal Photography Site (2016.07-)
