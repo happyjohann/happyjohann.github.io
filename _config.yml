@@ -1,22 +1,37 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Home
-email: i@ijohann.com
-description: > 
-  Focusing on web development and data analysis.
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Johann Huang
+email: johann.qiang.huang@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  An index page to list some of my projects.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://happyjohann.github.io" # the base hostname & protocol for your site
-twitter_username: 
-github_username:  happyjohann
-disqus_shortname: happyjohann
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: johannhng
+github_username:  johannhuang
 
 # Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+theme: minima
+plugins:
+  - jekyll-feed
+
 timezone: Asia/Shanghai
 encoding: UTF-8
 future: true
@@ -24,10 +39,14 @@ excerpt_separator: <!--more-->
 
 comments: true
 
-gems:
-  - jekyll-sitemap
-
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
