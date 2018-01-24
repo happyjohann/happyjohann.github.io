@@ -10,15 +10,13 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
-  <!-- Google Analytics -->
+  <!-- Google Analytics - Global site tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-100876107-3"></script>
   <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-68003442-1', 'auto');
-    ga('send', 'pageview');
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-100876107-3');
   </script>
 
   <!-- Baidu Tongji -->
@@ -26,19 +24,9 @@
   var _hmt = _hmt || [];
   (function() {
     var hm = document.createElement("script");
-    hm.src = "//hm.baidu.com/hm.js?17be0ecc0a38bba121c082b7651f36f0";
+    hm.src = "https://hm.baidu.com/hm.js?131c111c9e2b7d61b0940285f818862a";
     var s = document.getElementsByTagName("script")[0];
     s.parentNode.insertBefore(hm, s);
-  })();
-  </script>
-
-  <!-- Baidu Push -->
-  <script>
-  (function(){
-      var bp = document.createElement('script');
-      bp.src = '//push.zhanzhang.baidu.com/push.js';
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(bp, s);
   })();
   </script>
 </head>
