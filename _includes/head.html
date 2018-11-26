@@ -6,11 +6,11 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
 
-  <!-- Google Analytics - Global site tag (gtag.js) -->
+  <!-- Google Analytics - j.q.h - Global site tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-100876107-3"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -19,7 +19,7 @@
     gtag('config', 'UA-100876107-3');
   </script>
 
-  <!-- Baidu Tongji -->
+  <!-- Baidu Tongji - j.h -->
   <script>
   var _hmt = _hmt || [];
   (function() {
