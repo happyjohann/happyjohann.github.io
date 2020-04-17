@@ -16,13 +16,12 @@
 title: Projects made by Johann Huang
 description: >- # this means to ignore newlines until "baseurl:"
   An introduction website for projects made by Johann Huang, 
-  which is originally a blog succeeded by http://articles.johannhuang.com.
+  which is originally a blog succeeded by http://blog.johannhuang.com.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 email: johann.qiang.huang@gmail.com
-twitter_username: johannhng
-github_username:  johannhuang
-author_url: https://www.johannhuang.com
+twitter_username: johannhuang_com
+author_url: http://www.johannhuang.com
 
 # Build settings
 markdown: kramdown
@@ -34,12 +33,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
-timezone: Asia/Shanghai
+timezone: Europe/Berlin
 encoding: UTF-8
 future: true
-excerpt_separator: <!--more-->
+excerpt_separator: <hr />
 
-comments: true
+comments: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -53,5 +52,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - README.md
-  - _DEVNOTES.md
-  - _DRAFTS.md
+  - _+Documents
